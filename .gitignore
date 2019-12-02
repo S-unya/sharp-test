@@ -1,2 +1,3 @@
-output.jpg
+#ignore all output jpgs
+*output*.jpg
 node_modules
