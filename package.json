@@ -1,0 +1,14 @@
+{
+  "name": "sharp-test",
+  "version": "1.0.0",
+  "description": "test sharp can output on my OS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sunya.dickman@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.23.3"
+  }
+}
